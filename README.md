@@ -2,20 +2,11 @@
 Cherni Oussama</a></h1>
 <h3 align="center"> Software Data Engineer from <img src='TN@2x.png' width='21' height='15'> </h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-As a software data engineer with a strong foundation in machine learning, I have a passion for solving complex problems and delivering high-quality solutions. 
-
-I have experience building and maintaining data pipelines, as well as developing and deploying machine learning models.
+As a software engineer with a strong foundation in Java and Microservices, I have a passion for solving complex problems and delivering high-quality solutions. 
 
 
 - 🔭 I’m currently working in <a href="https://www.elyadata.com/" target="blank">ELYADATA</a>
 
-- 🌱 I’m currently learning BigData Tools.
-
-- 🤝 I’m available for freelancing.
 
 - 💬 Ask me about anything xD
 
