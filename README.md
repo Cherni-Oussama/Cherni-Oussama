@@ -10,9 +10,8 @@ As a software engineer with a strong foundation in Java and Microservices, I hav
 
 - 💬 Ask me about anything xD
 
-- 📫 How to reach me **oussama.cherni@elyadata.com**
+- 📫 How to reach me **oussama.cherni@ensi-uma.tn**
 
-- 📫 Check my portfolio: https://cherni-oussama.github.io/
 
 </br>
 
