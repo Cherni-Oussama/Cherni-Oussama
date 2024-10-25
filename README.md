@@ -8,8 +8,6 @@ As a software engineer with a strong foundation in Java and Microservices, I hav
 - 🔭 I’m currently working in <a href="https://www.elyadata.com/" target="blank">ELYADATA</a>
 
 
-- 💬 Ask me about anything xD
-
 - 📫 How to reach me **oussama.cherni@ensi-uma.tn**
 
 
