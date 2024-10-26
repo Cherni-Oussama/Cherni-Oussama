@@ -5,8 +5,6 @@ Cherni Oussama</a></h1>
 As a software engineer with a strong foundation in Java and Microservices, I have a passion for solving complex problems and delivering high-quality solutions. 
 
 
-- 🔭 I’m currently working in <a href="https://www.elyadata.com/" target="blank">ELYADATA</a>
-
 
 - 📫 How to reach me **oussama.cherni@ensi-uma.tn**
 
